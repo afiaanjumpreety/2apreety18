@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Afia Anjum Preety
+- 👋 Hi, I’m Afia
 - 🌱 I’m currently learning JavaScript
 
 <!---
